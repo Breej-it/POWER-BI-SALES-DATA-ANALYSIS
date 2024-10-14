@@ -14,7 +14,7 @@ Based on the insights uncovered from the Power BI project, here are some recomme
 
 4. Since Tom Ashbrook is the highest revenue-generating customer, the superstore should foster this relationship through personalized communication, loyalty programs, or exclusive offers to encourage repeat business and deepen customer loyalty.
 
-5. Support Top Performers: With Britanny Bold being the best team manager, Charlie as the best sales team, and Stella Given as the top sales representative, the superstore should recognize and reward these high performers. Additionally, they could be leveraged to mentor other team members, sharing their strategies and techniques to improve overall sales performance.
+5. With Britanny Bold being the best team manager, Charlie as the best sales team, and Stella Given as the top sales representative, the superstore should recognize and reward these high performers. Additionally, they could be leveraged to mentor other team members, sharing their strategies and techniques to improve overall sales performance.
 
 6. To sustain growth, it would be beneficial to conduct a deeper analysis of sales data regularly. Identifying emerging trends and customer preferences can help the superstore stay ahead of competitors and adjust its strategies proactively.
 
